@@ -1,0 +1,42 @@
+{
+    "rice husk": {
+        "description": "Residue generated during rice processing.",
+        "methods": [
+            "Biomass fuel",
+            "Composting where suitable",
+            "Soil amendment after proper assessment"
+        ]
+    },
+    "sugarcane bagasse": {
+        "description": "Fibrous residue remaining after sugarcane juice extraction.",
+        "methods": [
+            "Biomass energy",
+            "Paper and fibre products",
+            "Composting where suitable"
+        ]
+    },
+    "dry leaves": {
+        "description": "Dry leaves collected from agricultural fields and gardens.",
+        "methods": [
+            "Composting",
+            "Mulching",
+            "Leaf mould production"
+        ]
+    },
+    "crop residues": {
+        "description": "Plant material remaining after crop harvesting.",
+        "methods": [
+            "Mulching",
+            "Composting",
+            "Biomass utilization where suitable"
+        ]
+    },
+    "wheat straw": {
+        "description": "Dry stalks and leaves remaining after wheat harvesting.",
+        "methods": [
+            "Animal bedding where suitable",
+            "Composting",
+            "Mulching"
+        ]
+    }
+}
